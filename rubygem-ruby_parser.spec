@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    2.0.5
-Release:    %mkrel 1
+Release:    2
 Summary:    A ruby parser written in pure ruby
 Group:      Development/Ruby
 License:    MIT
