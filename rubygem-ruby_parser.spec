@@ -6,7 +6,7 @@ Release:    2
 Summary:    A ruby parser written in pure ruby
 Group:      Development/Ruby
 License:    MIT
-URL:        http://parsetree.rubyforge.org/
+URL:        https://parsetree.rubyforge.org/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
